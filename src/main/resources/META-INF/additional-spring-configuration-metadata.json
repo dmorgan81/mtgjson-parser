@@ -1,0 +1,7 @@
+{"properties": [
+  {
+    "name": "mtgjson.download-uri",
+    "type": "java.net.URI",
+    "description": "Download location for mtgjson.com data"
+  }
+]}
